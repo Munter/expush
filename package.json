@@ -1,0 +1,42 @@
+{
+  "name": "expush",
+  "version": "0.0.0",
+  "main": "lib/expush.js",
+  "description": "Express with spdy push of static assets and proxy passthrough for non-static assets",
+  "homepage": "https://github.com/Munter/expush",
+  "bugs": "user/repo/issues",
+  "author": {
+    "name": "Peter Müller",
+    "email": "munter@fumle.dk",
+    "url": "http://fumle.dk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "user/repo"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "files": [
+  ],
+  "keywords":[
+  ],
+  "dependencies": {
+    "express": "*",
+    "assetgraph": "*",
+    "mime": "*"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.2.0",
+    "jshint-stylish": "~0.1.3"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
