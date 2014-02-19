@@ -25,6 +25,7 @@
   ],
   "dependencies": {
     "express": "*",
+    "spdy": "*",
     "assetgraph": "*",
     "mime": "*"
   },
