@@ -19,15 +19,14 @@
       "type": "MIT"
     }
   ],
-  "files": [
-  ],
-  "keywords":[
-  ],
+  "files": [],
+  "keywords": [],
   "dependencies": {
     "express": "*",
     "spdy": "*",
     "assetgraph": "*",
-    "mime": "*"
+    "mime": "*",
+    "async": "~0.2.10"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
