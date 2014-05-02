@@ -14,6 +14,9 @@
     "type": "git",
     "url": "user/repo"
   },
+  "directories": {
+    "bin": "./bin"
+  },
   "licenses": [
     {
       "type": "MIT"
@@ -22,12 +25,12 @@
   "files": [],
   "keywords": [],
   "dependencies": {
-    "express": "*",
-    "spdy": "*",
-    "assetgraph": "*",
-    "mime": "*",
+    "assetgraph": "^1.6.26",
     "async": "~0.2.10",
-    "chalk": "~0.4.0"
+    "chalk": "~0.4.0",
+    "express": "*",
+    "mime": "*",
+    "spdy": "^1.25.6"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",

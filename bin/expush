@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var expush = require('../lib/expush');
+var root = process.cwd();
+
+expush(root);
