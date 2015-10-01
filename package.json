@@ -26,7 +26,7 @@
     "spdy": "*",
     "assetgraph": "*",
     "mime": "*",
-    "async": "~0.2.10",
+    "async": "1.4.2",
     "chalk": "~0.4.0"
   },
   "devDependencies": {
