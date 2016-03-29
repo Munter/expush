@@ -27,7 +27,7 @@
     "assetgraph": "*",
     "mime": "*",
     "async": "1.4.2",
-    "chalk": "1.1.1"
+    "chalk": "1.1.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
