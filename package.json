@@ -23,7 +23,7 @@
   "keywords": [],
   "dependencies": {
     "express": "*",
-    "spdy": "*",
+    "spdy": "3.4.3",
     "assetgraph": "*",
     "mime": "*",
     "async": "1.4.2",
