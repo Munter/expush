@@ -22,7 +22,7 @@
   "files": [],
   "keywords": [],
   "dependencies": {
-    "express": "*",
+    "express": "4.15.0",
     "spdy": "*",
     "assetgraph": "*",
     "mime": "*",
