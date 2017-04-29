@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function (grunt) {
+module.exports = grunt => {
   // Show elapsed time at the end
   require('time-grunt')(grunt);
   // Load all grunt tasks
