@@ -23,7 +23,7 @@ var expush = require('../lib/expush.js');
 */
 
 exports.expush = {
-  setUp: function(done) {
+  setUp(done) {
     // setup here
     done();
   },
